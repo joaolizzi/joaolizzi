@@ -1,16 +1,18 @@
-## Hi there 👋
+```markdown
+## Hi, I'm João 👋
 
-<!--
-**joaolizzi/joaolizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a love for Java, JavaScript, and React. I enjoy building user-friendly applications and solving complex problems.
 
-Here are some ideas to get you started:
+### Tech Stack
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Building a full-stack web application using React and Node.js.
+- Learning TypeScript to enhance my JavaScript skills.
+
+### How to Reach Me
+- [GitHub](https://github.com/[YOUR-USERNAME])
+- [LinkedIn](https://linkedin.com/in/[YOUR-NAME])
+```
