@@ -1,35 +1,32 @@
 <div align="center">
 
-#  lizzi
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:6C63FF&text=João%20Lizzi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18" width="100%" />
 
-### `Developer` · `Builder` · `AI Enthusiast`
+<br>
 
-Building useful products, learning every day, and turning ideas into real applications.
-
-<p>
-  <a href="https://github.com/joaolizzi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=joaolizzi&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=joaolizzi&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" />
 
 </div>
 
+<br>
+
+## 👋 About me
+
+I'm **João Lizzi**, a developer who enjoys turning ideas into real products.
+
+My focus is building **modern web applications**, experimenting with **AI**, and learning by actually shipping projects — from the interface and logic to the database and deployment.
+
+> **Build. Learn. Improve. Repeat.**
+
+- 🚀 Building and shipping personal products
+- 🤖 Exploring AI-powered applications
+- ⚛️ Growing my React & frontend skills
+- 🗄️ Working with backend services and databases
+- 💡 Turning everyday ideas into useful software
+
 ---
 
-## 👨‍💻 About me
-
-I'm a developer focused on building **modern web applications** and experimenting with **AI-powered experiences**.
-
-I enjoy taking an idea from concept to a working product — designing the interface, building the application, connecting the backend, and deploying it.
-
-- 🚀 Building and shipping personal projects
-- 🤖 Exploring AI and intelligent features
-- ⚛️ Improving my React and frontend skills
-- 🗄️ Working with databases and backend services
-- 💡 Turning ideas into useful products
-
----
-
-## 🧰 Tech stack
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -39,35 +36,56 @@ I enjoy taking an idea from concept to a working product — designing the inter
 
 ---
 
-## 🚀 Featured project
+## 🚀 Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 Finanças
 
-**A personal finance application for managing money, tracking expenses and keeping a financial history.**
+A personal finance app focused on **organizing money, tracking expenses, managing balance and keeping a financial history**.
+
+**Stack**
 
 `React` `Vite` `JavaScript` `Supabase`
 
 <a href="https://github.com/joaolizzi/financeiro">
-  <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🍎 Calorias Diárias
+
+A nutrition and calorie tracking app designed to **log meals, calculate daily intake and use AI to interpret food descriptions**.
+
+**Stack**
+
+`React` `Vite` `JavaScript` `Supabase` `Gemini AI`
+
+<a href="https://github.com/joaolizzi/calorias-diarias">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub stats
+## 📈 GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaolizzi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolizzi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaolizzi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolizzi&layout=compact&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaolizzi&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=joaolizzi&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -75,39 +93,41 @@ I enjoy taking an idea from concept to a working product — designing the inter
 ## 🐍 Contribution graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joaolizzi/joaolizzi/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+<img src="https://raw.githubusercontent.com/joaolizzi/joaolizzi/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="90%" />
+
 </div>
 
 ---
 
-## 🎯 Currently
+## 🎯 What I'm building
 
 ```text
-01  Building better projects
-02  Exploring AI-powered applications
-03  Improving React & frontend development
-04  Learning more about backend architecture
-05  Turning more ideas into real products
+01  ████████████████████  Better personal products
+02  ██████████████████░░  AI-powered experiences
+03  ████████████████░░░░  React & frontend development
+04  ██████████████░░░░░░  Backend architecture
+05  ████████████████░░░░  New ideas → real applications
 ```
 
 ---
 
-## 🌐 Find me
+## 🌐
 
 <div align="center">
 
 <a href="https://github.com/joaolizzi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### Thanks for stopping by 👋
+### Thanks for visiting 👋
 
-*Always learning. Always building.*
+**Always learning. Always building.**
 
 </div>
