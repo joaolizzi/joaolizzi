@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:6C63FF&text=João%20Lizzi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20AI%20Enthusiast&descAlignY=62&descSize=18" width="100%" />
+# João Lizzi
+
+### `Developer` · `Builder` · `AI Enthusiast`
+
+**Building useful products. Learning every day. Turning ideas into real applications.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=joaolizzi&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=joaolizzi&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 
 </div>
 
-<br>
+---
 
 ## 👋 About me
 
