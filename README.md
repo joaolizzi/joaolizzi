@@ -1,63 +1,82 @@
-# 👋 Hi, I'm João
-
-💻 Developer passionate about technology, web development and building real-world projects.
-
-I enjoy turning ideas into applications, learning new technologies and improving my skills through hands-on projects.
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🔨 Currently Working On
-
-- 💰 Personal finance applications
-- 🤖 AI-powered features
-- 🌐 Modern web applications
-- 📚 Improving my development skills
-- 🚀 Deploying and maintaining projects
-
----
-
-## 🌟 Featured Project
-
-### 💰 Finanças
-
-A personal finance management application designed to help users track their money, expenses and financial history.
-
-**Built with:**
-
-`React` `Vite` `Supabase` `JavaScript`
-
----
-
-## 📊 GitHub Stats
+# 👋 Hey, I'm João
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaolizzi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolizzi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=João%20Lizzi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+  <b>💻 Developer • 🚀 Builder • 🤖 AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/joaolizzi">
+    <img src="https://komarev.com/ghpvc/?username=joaolizzi&label=Profile%20Views&color=6C63FF&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🧑‍💻 About Me
+
+I'm a developer who enjoys building **real-world applications** and turning ideas into useful products.
+
+I'm constantly learning, experimenting with new technologies and improving my development skills through personal projects.
+
+* 🚀 Building modern web applications
+* 🤖 Exploring AI-powered features
+* 🗄️ Working with databases and backend services
+* 🎨 Interested in clean and intuitive interfaces
+* 📚 Always learning something new
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,vite" />
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+### 💰 Finanças
+
+A personal finance application focused on making it easier to manage money, track expenses and keep a financial history.
+
+**Stack:**
+
+`React` `Vite` `JavaScript` `Supabase`
+
+🔗 **Repository:**
+https://github.com/joaolizzi/financeiro
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaolizzi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolizzi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaolizzi&theme=tokyonight&hide_border=true"/>
@@ -65,9 +84,29 @@ A personal finance management application designed to help users track their mon
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Graph
 
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaolizzi/joaolizzi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+```text
+🚀 Build better projects
+🤖 Learn more about AI
+⚛️ Improve my React skills
+🗄️ Improve backend & database knowledge
+💡 Turn more ideas into real applications
+```
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
   <a href="https://github.com/joaolizzi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -76,5 +115,9 @@ A personal finance management application designed to help users track their mon
 ---
 
 <p align="center">
-  <i>💡 Always learning. Always building.</i>
+  <i>“Always learning. Always building.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
