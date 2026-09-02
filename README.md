@@ -1,6 +1,6 @@
 <div align="center">
 
-# João Lizzi
+#  lizzi
 
 ### `Developer` · `Builder` · `AI Enthusiast`
 
